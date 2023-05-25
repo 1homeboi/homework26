@@ -1,0 +1,3 @@
+get http://fakestoreapi.com/fakestoreapi.com/products/1 HTTP/1.1
+###
+get http://fakestoreapi.com/products?limit=5 HTTP/1.1
